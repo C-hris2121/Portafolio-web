@@ -6,10 +6,10 @@ body, html {
   font-family: Arial, sans-serif;
 }
 body{
- background-color:  rebeccapurple;
+  background-image: url("../Imagenes/Acerca.png");
 }
 .container {
-  background-image: url("Imagenes/SVG/Fondo.svg");
+ 
   background-size: cover;
   background-position: center;
   width: 100%;
